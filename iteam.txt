@@ -6,3 +6,7 @@ ram
 
 internet
 
+Chrome
+
+Net
+
